@@ -44,7 +44,7 @@ class POD:
         {Fore.GREEN + Style.BRIGHT}Auto Ping {Fore.BLUE + Style.BRIGHT}Part Of Dream - BOT
             """
             f"""
-        {Fore.GREEN + Style.BRIGHT}Rey? {Fore.YELLOW + Style.BRIGHT}<INI WATERMARK>
+        {Fore.GREEN + Style.BRIGHT}By: {Fore.YELLOW + Style.BRIGHT}<DropsterMind>
             """
         )
 
