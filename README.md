@@ -1,10 +1,10 @@
 # Part Of Dream BOT
 Part Of Dream BOT
 
-- Register Here : [Part Of Dream](https://dreamerquests.partofdream.io/login?referralCodeForPOD=6e3b409e)
+- Register Here : [Part Of Dream](https://dreamerquests.partofdream.io)
 - Login With X
 - Don't Forget to Connect Wallet & Social Media Account
-- Enter Code : 6e3b409e
+- Enter Code : 
 
 ## Features
 
@@ -25,10 +25,10 @@ Part Of Dream BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/DreamerQuests-BOT.git
+   git clone https://github.com/DropsterMind/DreamerQuests-AUTO.git
    ```
    ```bash
-   cd DreamerQuests-BOT
+   cd DreamerQuests-AUTO
    ```
 
 2. **Install Requirements:**
@@ -64,14 +64,19 @@ Part Of Dream BOT
 python bot.py #or python3 bot.py
 ```
 
-## Buy Me a Coffee
+## ☕ Buy Me a Coffee
+If you find this project helpful, consider supporting me through crypto tips:
 
-- **EVM:** 0xe3c9ef9a39e9eb0582e5b147026cae524338521a
-- **TON:** UQBEFv58DC4FUrGqinBB5PAQS7TzXSm5c1Fn6nkiet8kmehB
-- **SOL:** E1xkaJYmAFEj28NPHKhjbf7GcvfdjKdvXju8d8AeSunf
-- **SUI:** 0xa03726ecbbe00b31df6a61d7a59d02a7eedc39fe269532ceab97852a04cf3347
+- **EVM:** 0x8AD937497B71913167295202d242de4d9FeE3934
 
-Thank you for visiting this repository, don't forget to contribute in the form of follows and stars.
-If you have questions, find an issue, or have suggestions for improvement, feel free to contact me or open an *issue* in this GitHub repository.
+- **TON:** UQCTmU0xhlyy077Mdr9R0UAfw529XAVzi76QSYksGzhf6Z6U
 
-**vonssy**
+- **SOL:** 7WJHZn59gUHtF6bNVQLi5XL37Ni2zvUYA2M7kskkpzu8
+
+- **SUI:** 0xdf86f613edb2c75b325922ff81fc5c13e0aff7a7d788f68611ff82f9a667dc47
+
+🙏 Thanks for checking out this repository!
+Don’t forget to star ⭐ and follow if you find it useful.
+If you encounter issues, have questions, or want to suggest improvements — feel free to reach out or open an issue right here.
+
+## — DropsterMind 🧠
